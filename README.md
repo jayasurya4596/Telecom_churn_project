@@ -1,1 +1,1 @@
-# Telecom_churn_project
+# Telecom_churn
